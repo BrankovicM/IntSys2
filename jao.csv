@@ -1,0 +1,13 @@
+Parents visiting,weather,money,Activity
+yes,sunny,yes,cinema
+yes,sunny,no,cinema
+no,sunny,yes,tennis
+no,sunny,no,tennis
+yes,windy,yes,cinema
+yes,windy,no,cinema
+no,windy,yes,shopping
+no,windy,no,cinema
+yes,rainy,yes,cinema
+yes,rainy,no,cinema
+no,rainy,yes,stay
+no,rainy,no,stay

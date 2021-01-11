@@ -1,0 +1,19 @@
+"deo dana (jutro, dan, vece) ",drustvo/bez drustva ,"vreme (kisa, sunce, vetar) ",napolju/unutra ,Placa se/ne placa se ,malo/puno vremena ,hrana/ne ,rezultat
+Dan,Bez drustva,Kisa,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Dan,Bez drustva,Sunce,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Dan,Bez drustva,Vetar,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Vece,Bez drustva,Kisa,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Vece,Bez drustva,Sunce,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Vece,Bez drustva,Vetar,Napolju,Placa se,Puno vremena,Sa hranom,Bioskop
+Jutro,Bez drustva,Sunce,Napolju,Ne placa se,Puno vremena,Sa hranom,Voznja biciklom
+Jutro,Sa drustvom,Sunce,Napolju,Ne placa se,Puno vremena,Sa hranom,Voznja biciklom
+Dan,Bez drustva,Kisa,Napolju,Ne placa se,Malo vremena,Sa hranom,Setnja
+Dan,Bez drustva,Kisa,Napolju,Ne placa se,Puno vremena,Sa hranom,Setnja
+Vece,Sa drustvom,Sunce,Napolju,Ne placa se,Puno vremena,Sa hranom,Izlet
+Jutro,Bez drustva,Kisa,Unutra,Ne placa se,Malo vremena,Sa hranom,Film
+Jutro,Bez drustva,Kisa,Unutra,Ne placa se,Puno vremena,Sa hranom,Ucenje
+Jutro,Bez drustva,Vetar,Unutra,Ne placa se,Malo vremena,Sa hranom,Film
+Dan,Bez drustva,Sunce,Unutra,Ne placa se,Puno vremena,Bez hrane,Rucak
+Vece,Sa drustvom,Kisa,Unutra,Ne placa se,Puno vremena,Sa hranom,Film
+Vece,Sa drustvom,Sunce,Unutra,Ne placa se,Puno vremena,Sa hranom,Film
+Vece,Sa drustvom,Vetar,Unutra,Ne placa se,Puno vremena,Sa hranom,Film

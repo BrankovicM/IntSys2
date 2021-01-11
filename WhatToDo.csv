@@ -1,0 +1,37 @@
+"Weather (hot, rainy, snowy)","Time of the day (morning, daytime, night)",With friends/without friends,At home/Outdoors,Activity
+Hot,Morning,With friends,At home,Brunch
+Hot,Morning,With friends,Outdoors,Brunch
+Hot,Morning,Without friends,At home,Coffee
+Hot,Morning,Without friends,Outdoors,Walk
+Hot,Daytime,With friends,At home,Movie
+Hot,Daytime,With friends,Outdoors,Bicycle ride
+Hot,Daytime,Without friends,At home,Movie
+Hot,Daytime,Without friends,Outdoors,Walk
+Hot,Night,With friends,At home,Movie
+Hot,Night,With friends,Outdoors,Go out
+Hot,Night,Without friends,At home,Movie
+Hot,Night,Without friends,Outdoors,Walk
+Rainy,Morning,With friends,At home,Coffee
+Rainy,Morning,With friends,Outdoors,Coffee
+Rainy,Morning,Without friends,At home,Coffee
+Rainy,Morning,Without friends,Outdoors,Walk
+Rainy,Daytime,With friends,At home,Movie
+Rainy,Daytime,With friends,Outdoors,Walk
+Rainy,Daytime,Without friends,At home,Movie
+Rainy,Daytime,Without friends,Outdoors,Walk
+Rainy,Night,With friends,At home,Movie
+Rainy,Night,With friends,Outdoors,Go out
+Rainy,Night,Without friends,At home,Movie
+Rainy,Night,Without friends,Outdoors,Walk
+Snowy,Morning,With friends,At home,Coffee
+Snowy,Morning,With friends,Outdoors,Coffee
+Snowy,Morning,Without friends,At home,Coffee
+Snowy,Morning,Without friends,Outdoors,Coffee
+Snowy,Daytime,With friends,At home,Movie
+Snowy,Daytime,With friends,Outdoors,Ice skating
+Snowy,Daytime,Without friends,At home,Movie
+Snowy,Daytime,Without friends,Outdoors,Walk
+Snowy,Night,With friends,At home,Movie
+Snowy,Night,With friends,Outdoors,Go out
+Snowy,Night,Without friends,At home,Movie
+Snowy,Night,Without friends,Outdoors,Walk

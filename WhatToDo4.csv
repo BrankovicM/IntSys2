@@ -1,0 +1,21 @@
+Weather,Time of the day,Homework/No homework,Bored/Not bored,Activity
+Hot,Night,Homework,Bored,Go out
+Hot,Night,No homework,Bored,Go out
+Hot,Daytime,No homework,Bored,Go out
+Hot,Daytime,Homework,Bored,Go out
+Hot,Night,No homework,Not bored,Go out
+Hot,Daytime,No homework,Not bored,Go out
+Hot,Daytime,Homework,Not bored,Go out
+Rainy,Daytime,Homework,Bored,Go out
+Rainy,Night,No homework,Bored,Stay in
+Rainy,Night,Homework,Bored,Stay in
+Rainy,Daytime,No homework,Bored,Stay in
+Rainy,Night,No homework,Not bored,Stay in
+Rainy,Daytime,No homework,Not bored,Stay in
+Rainy,Daytime,Homework,Not bored,Stay in
+Snowy,Night,No homework,Bored,Go out
+Snowy,Night,Homework,Bored,Go out
+Snowy,Daytime,No homework,Bored,Go out
+Snowy,Daytime,Homework,Bored,Go out
+Snowy,Daytime,No homework,Not bored,Go out
+Snowy,Night,No homework,Not bored,Stay in
