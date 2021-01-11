@@ -74,25 +74,24 @@ namespace IntSys2
             Console.WriteLine("Id3 resenje: " + answer);
             Console.WriteLine("-------------------------");
 
+            //var c45learning = new C45Learning()
+            //{
+            //    new DecisionVariable(data.Columns[0].ColumnName, 3),
+            //    new DecisionVariable(data.Columns[1].ColumnName, 2),
+            //    new DecisionVariable(data.Columns[2].ColumnName, 2),
+            //    new DecisionVariable(data.Columns[3].ColumnName, 2)
+            //};
 
-            var c45learning = new C45Learning()
-            {
-                new DecisionVariable(data.Columns[0].ColumnName, 3),
-                new DecisionVariable(data.Columns[1].ColumnName, 2),
-                new DecisionVariable(data.Columns[2].ColumnName, 2),
-                new DecisionVariable(data.Columns[3].ColumnName, 2)
-            };
+            //DecisionTree c45Tree = c45learning.Learn(inputs, outputs);
 
-            DecisionTree c45Tree = c45learning.Learn(inputs, outputs);
+            //PrintTree(c45Tree.Root, "", c45Tree.Root.IsLeaf);
 
-            PrintTree(c45Tree.Root, "", c45Tree.Root.IsLeaf);
+            //int c45predicted = c45Tree.Decide(query);
 
-            int c45predicted = c45Tree.Decide(query);
-
-            answer = codebook.Revert(data.Columns[4].ColumnName, c45predicted);
-            Console.WriteLine("-------------------------");
-            Console.WriteLine("C45  resenje: " + answer);
-            Console.WriteLine("-------------------------");
+            //answer = codebook.Revert(data.Columns[4].ColumnName, c45predicted);
+            //Console.WriteLine("-------------------------");
+            //Console.WriteLine("C45  resenje: " + answer);
+            //Console.WriteLine("-------------------------");
 
             Console.ReadLine();
         }
